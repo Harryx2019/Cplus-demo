@@ -1,0 +1,2 @@
+F:\University\Study\C++\Harry\HelloWorld\HelloWorld\Debug\Demo.exe
+F:\University\Study\C++\Harry\HelloWorld\HelloWorld\Debug\Demo.pdb

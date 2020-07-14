@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="array.cpp" />
     <ClCompile Include="ArrayOfPoints.cpp" />
+    <ClCompile Include="Calculator.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="playDice.cpp" />
@@ -151,10 +152,13 @@
   <ItemGroup>
     <ClInclude Include="array.h" />
     <ClInclude Include="ArryayOfPoints.h" />
+    <ClInclude Include="Calculator.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="playDice.h" />
     <ClInclude Include="Point.h" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="Stack.h" />
     <ClInclude Include="template.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
